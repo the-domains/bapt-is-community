@@ -1,6 +1,6 @@
 name: Bapt.is Community
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.6014571802224964
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.16357345436699688
